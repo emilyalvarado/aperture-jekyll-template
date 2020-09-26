@@ -2,13 +2,13 @@
 # Site
 
 title: Aperture Template
-url: "https://cosmic-hippopotamus.cloudvent.net"
+url: ""
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: Photography portfolio 
 author:
   name:
   email:
@@ -21,7 +21,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Etc/CDT
 
 permalink: pretty
 
